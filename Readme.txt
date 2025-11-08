@@ -25,7 +25,7 @@ CS2 自动配置文件
 | MWHEEL        | Jump                   |  | qt    | Quit                     |
 | Mouse4 + Q    | Molly                  |  | pt    | Load Practice config     |
 | Mouse4 + E    | Nade                   |  | c1    | Crosshair style 1        |
-| Mouse4 + R    | Smoke                  |  | c2    | Crosshair style 2        |
+| Mouse4 + F    | Smoke                  |  | c2    | Crosshair style 2        |
 | PgUp          | Toggle mute            |  | c3    | Crosshair style 3        |
 | PgDn          | Toggle Volume mode     |  | c4    | Crosshair style 4        |
 | /             | Toggle Corsshair style |  | v0    | No sound                 |
