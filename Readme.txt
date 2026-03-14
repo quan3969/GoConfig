@@ -11,8 +11,8 @@ CS2 自动配置文件
 ## 推荐配置
 
 1. 使用 autoexec.cfg
-2. 游戏使用无框窗口模式，提高桌面和游戏间切换速度（不会黑屏），4K 使用超分辨率
-3. eDPI 1200 = 800(鼠标) x 0.9(sensitivity) 
+2. 游戏使用无框窗口模式，提高桌面和游戏间切换速度（不会黑屏）
+3. eDPI 700 = 1200(鼠标) x 0.58(sensitivity) 
 
 
 ## 配置说明
@@ -38,4 +38,7 @@ CS2 自动配置文件
 | \             | Show last utility      |
 | [             | Show impact            |
 | ]             | Toggle utility track   |
+| F5            | Spawn bot              |
+| F6            | Get current Pos        |
+| F7            | Go to Pos              |
 +---------------+------------------------+
