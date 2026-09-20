@@ -23,16 +23,16 @@ CS2 自动配置文件
 | Capslock      | Flash                  |  | at    | Reload GoConfig          |
 | Mouse4        | Voice chat             |  | dc    | Disconnect               |
 | MWHEEL        | Jump                   |  | qt    | Quit                     |
-| Mouse4 + Q    | Molly                  |  | pt    | Load Practice config     |
-| Mouse4 + E    | Nade                   |  | c1    | Crosshair style 1        |
-| Mouse4 + F    | Smoke                  |  | c2    | Crosshair style 2        |
-| PgUp          | Toggle mute            |  | c3    | Crosshair style 3        |
-| PgDn          | Toggle Volume mode     |  | c4    | Crosshair style 4        |
-| /             | Toggle Corsshair style |  | v0    | No sound                 |
+| Mouse4 + Q    | Molly                  |  | rl    | Reload                   |
+| Mouse4 + E    | Nade                   |  | pt    | Load Practice config     |
+| Mouse4 + F    | Smoke                  |  | c1    | Crosshair style 1        |
+| PgUp          | Toggle mute            |  | c2    | Crosshair style 2        |
+| PgDn          | Toggle Volume mode     |  | c3    | Crosshair style 3        |
+| /             | Toggle Corsshair style |  | c4    | Crosshair style 4        |
++---------------+------------------------+  | v0    | No sound                 |
 +---------------+------------------------+  | v1    | No music                 |
-+---------------+------------------------+  | v2    | Default                  |
-| "Pt" Key      | Function               |  +-------+--------------------------+
-+---------------+------------------------+
+| "Pt" Key      | Function               |  | v2    | Default                  |
++---------------+------------------------+  +-------+--------------------------+
 | ALT           | noclip                 |
 | END           | Clear Nade             |
 | \             | Show last utility      |
